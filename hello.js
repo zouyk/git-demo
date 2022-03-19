@@ -10,3 +10,4 @@ var length = 20
 
 
 const sum =(a,b)=>a+b
+const tostring = (a) => a + ''
